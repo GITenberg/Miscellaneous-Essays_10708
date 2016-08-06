@@ -1,0 +1,33 @@
+_repo: Miscellaneous-Essays_10708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - Quincy, Thomas de
+    - Kvinsi, Tomas de
+    - Quincey, Thomas de
+    - DeQuincey, Thomas
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+- GITenberg
+tableOfContents: On the knocking at the gate, in Macbeth -- Murder, considered as
+  one of the fine arts -- Second paper on murder -- Joan of Arc -- The English mail-coach
+  -- The vision of sudden death -- Dinner, real and reputed.
+title: Miscellaneous Essays
+url: http://www.gutenberg.org/ebooks/10708
